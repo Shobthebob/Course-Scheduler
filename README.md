@@ -21,3 +21,9 @@ A Java-based application for managing course schedules. This project integrates 
 - **IDE:** Apache NetBeans  
 - **UI Framework:** Java Swing  
 - **Build Tool:** Maven
+
+---
+
+## **Screenshows**
+![Screenshot 2025-01-27 020802](https://github.com/user-attachments/assets/87a8db2b-5d36-498c-adc2-4c421b22385d)
+![Screenshot 2025-01-27 020857](https://github.com/user-attachments/assets/29526d58-b1f4-4c63-947c-81717a342c80)
